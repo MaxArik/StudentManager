@@ -1,0 +1,4 @@
+D:\3 C#\C#2\Practice\studentManager\studentManager\obj\Debug\net8.0\studentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 C#\C#2\Practice\studentManager\studentManager\obj\Debug\net8.0\studentManager.AssemblyInfoInputs.cache
+D:\3 C#\C#2\Practice\studentManager\studentManager\obj\Debug\net8.0\studentManager.AssemblyInfo.cs
+D:\3 C#\C#2\Practice\studentManager\studentManager\obj\Debug\net8.0\studentManager.csproj.CoreCompileInputs.cache
